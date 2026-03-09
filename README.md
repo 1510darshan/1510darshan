@@ -270,7 +270,7 @@ const darshan = {
 
 <!-- ===================== CURRENTLY LISTENING / FUN ===================== -->
 
-<div align="center">
+<div align="left">
 
 ### ⚡ Random Dev Facts About Me
 
