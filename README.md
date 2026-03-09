@@ -134,13 +134,15 @@ const darshan = {
 
 <div align="center">
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
+> ⚙️ *To enable the snake animation, add a GitHub Actions workflow to your profile repo that generates the SVG — see [Platane/snk](https://github.com/Platane/snk) for setup instructions.*
 
 </div>
 
@@ -171,39 +173,43 @@ const darshan = {
 
 <td width="50%" valign="top">
 
-### 🧬 Gender Risk Prediction Dashboard
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
-![ML](https://img.shields.io/badge/-Machine%20Learning-0d1117?style=flat-square&logo=scikitlearn&logoColor=00bfff)
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+### 🛡️ GEIP — Gender Equity Intelligence Platform
+![React](https://img.shields.io/badge/-React%2019-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff88)
+![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFA611)
+![Gemini](https://img.shields.io/badge/-Gemini%20AI-0d1117?style=flat-square&logo=google&logoColor=4285F4)
 
-> An ML-powered dashboard that predicts and visualizes health risk factors. Combines data science with modern React UI for actionable insights.
+> A data-driven platform that transforms public gender-related data into actionable insights — empowering policymakers, NGOs & communities across India to drive gender equality initiatives.
 
 **Key Features:**
-- 📊 Interactive data visualization
-- 🤖 Predictive ML model integration
-- 📱 Responsive React frontend
-- 🗄️ MongoDB data persistence
+- 🗺️ Interactive gender risk map (React-Leaflet) with district drill-down
+- 🤖 **Sakhi AI** — Gemini-powered multilingual assistant (English / Hindi / Hinglish)
+- 📊 Recharts analytics dashboards for sex ratio, literacy & labor trends
+- 🌸 Girl Child Future Planner with 40+ govt scheme recommendations
+- 🔐 Firebase auth with role-based access (Citizen / NGO / Government)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan/SHEILD)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 React AI Chatbot
-![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+### 💼 Personal Portfolio — Full Stack App
+![React](https://img.shields.io/badge/-React%2019-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff88)
-![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFA611)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![JWT](https://img.shields.io/badge/-JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=pink)
 
-> A conversational AI chatbot built with React and integrated with an AI API. Supports real-time chat, history persistence, and clean UI/UX.
+> A full-stack portfolio website featuring a beautiful public-facing site + integrated admin dashboard for dynamic content management — no hardcoding needed.
 
 **Key Features:**
-- 💬 Real-time AI conversations
-- 🔥 Firebase auth & storage
-- 🎨 Sleek animated chat UI
-- 📜 Conversation history
+- 🎨 Fully responsive modern UI with Styled Components
+- 🔐 Secure JWT-authenticated admin dashboard
+- 📊 Full CRUD — Projects, Skills, Education, Messages, Profile
+- 📧 Contact form with EmailJS integration
+- 💡 Skills display with animated progress bars
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan/Portfolio)
 
 </td>
 
@@ -212,39 +218,45 @@ const darshan = {
 
 <td width="50%" valign="top">
 
-### 🔐 Web Security Learning Lab
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00ff88)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+### 🎯 InterviewX — Interview Automation Platform
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff88)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 
-> A hands-on security learning environment covering OWASP Top 10, common web vulnerabilities, and ethical hacking fundamentals.
+> A modern full-stack platform to streamline the entire interview lifecycle — real-time communication, smart scheduling, analytics, and AI-powered evaluation feedback.
 
 **Key Features:**
-- 🛡️ OWASP vulnerability demos
-- 🧪 Sandbox testing environment
-- 📚 Step-by-step learning modules
-- 🔍 Security scanning scripts
+- 💬 Real-time chat & messaging via **Socket.IO**
+- 📅 Interview scheduling with calendar integration
+- 🤖 AI-powered interview evaluation & feedback
+- 📁 File uploads — resumes, documents & media
+- 🔐 Role-based auth (Admin / Interviewer / Candidate)
+- 📊 Analytics & outcome reporting dashboard
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan/InterviewX)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📱 React Native Mobile App
-![ReactNative](https://img.shields.io/badge/-React%20Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/-Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFA611)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+### 🔐 Authentication System — Secure Auth API
+![Node.js](https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff88)
+![Express](https://img.shields.io/badge/-Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![JWT](https://img.shields.io/badge/-JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=pink)
 
-> A cross-platform mobile application built with React Native and Firebase for seamless iOS/Android experiences with real-time sync.
+> A robust, production-ready Node.js authentication system with email verification, password reset flows, and secure JWT session management via HTTP-only cookies.
 
 **Key Features:**
-- 📲 Cross-platform (iOS & Android)
-- 🔄 Real-time Firebase backend
-- 🔒 Secure authentication
-- 🎯 Clean, intuitive UX
+- 📧 Email verification with custom Mailtrap templates
+- 🔄 Secure password reset (token + expiry flow)
+- 🍪 HTTP-only cookies for XSS-safe JWT storage
+- 🔒 bcryptjs password hashing + rate limiting
+- ✅ Full auth lifecycle: signup → verify → login → reset → logout
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan)
 
 </td>
 
