@@ -256,7 +256,7 @@ const darshan = {
 - 🔒 bcryptjs password hashing + rate limiting
 - ✅ Full auth lifecycle: signup → verify → login → reset → logout
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%2300ff88?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/1510darshan/Authentication)
 
 </td>
 
