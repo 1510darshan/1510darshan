@@ -119,21 +119,9 @@ const darshan = {
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/1510darshan/1510darshan/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> ⚙️ *To enable the snake animation, add a GitHub Actions workflow to your profile repo that generates the SVG — see [Platane/snk](https://github.com/Platane/snk) for setup instructions.*
 
 </div>
 
----
-
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-<div align="center">
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=1510darshan&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
