@@ -78,44 +78,21 @@ const darshan = {
 ### 🛠️ Tech Stack & Tools
 
 #### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 #### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 
 #### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,linux,arduino,unity,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux,unity,androidstudio&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ===================== SKILL PROGRESS BARS ===================== -->
 
-<div align="center">
-
-### 📊 Skill Proficiency
-
-</div>
-
-| Skill | Proficiency | Level |
-|-------|------------|-------|
-| **HTML / CSS** | `████████████████████░░░░` | 85% |
-| **JavaScript** | `██████████████████░░░░░░` | 75% |
-| **React** | `█████████████████░░░░░░░` | 70% |
-| **Node.js** | `████████████████░░░░░░░░` | 65% |
-| **Python** | `███████████████░░░░░░░░░` | 60% |
-| **Java** | `█████████████░░░░░░░░░░░` | 55% |
-| **C++** | `████████████░░░░░░░░░░░░` | 50% |
-| **MongoDB** | `████████████████░░░░░░░░` | 65% |
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<div align="center">
 
 ### 📈 GitHub Statistics
 
