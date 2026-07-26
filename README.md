@@ -92,7 +92,7 @@ const darshan = {
 
 ---
 
-
+<div align="center">
 
 ### 📈 GitHub Statistics
 
